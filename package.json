@@ -1,0 +1,20 @@
+{
+    "name": "ktemplate-webpack",
+    "title": "ktemplate-webpack",
+    "description": "ktemple module loader for webpack",
+    "version": "0.1.0",
+    "homepage": "",
+    "author": {
+        "name": "KnightWu"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wulijian/ktemplate-webpack.git"
+    },
+    "bugs": {
+        "url": "XXX"
+    },
+    "dependencies": {
+    },
+    "keywords": ["template", "webpack","plugin", "nodejs", "javascript"]
+}

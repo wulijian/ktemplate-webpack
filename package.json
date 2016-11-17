@@ -2,7 +2,7 @@
     "name": "ktemplate-webpack",
     "title": "ktemplate-webpack",
     "description": "ktemple module loader for webpack",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "homepage": "",
     "author": {
         "name": "KnightWu"

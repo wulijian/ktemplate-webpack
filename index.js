@@ -1,7 +1,7 @@
 var path = require("path");
 var options = {};
 function KtemplatePlugin(_options) {
-    options = _options;
+    options = _options || {};
 }
 KtemplatePlugin.prototype.apply = function (compiler) {
     var templateDir = options.templateDir || 'src/template';
